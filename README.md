@@ -1,6 +1,7 @@
 # NodeJS-Todo
-NodeJS를 이용하여 제작한 Todo
-  
+NodeJS를 이용하여 제작한 Todo  
+<h3><a href="http://3.39.121.51:3000">[체험해보기]</a></h3>
+
 ## 프로젝트 기간
 2023/03/11 ~ 2023/03/12
 
@@ -8,7 +9,7 @@ NodeJS를 이용하여 제작한 Todo
 주제 : Todo-List 
 
 ## SKILL
-HTML CSS EJS Node.js Express.js MongoDB Mongoose AWS EC2 AWS Lamda Git Github
+HTML CSS EJS Node.js Express.js MongoDB(Cloud) Mongoose AWS EC2 AWS Lamda Git Github
 
 ## 기능
   - Todo 조회
