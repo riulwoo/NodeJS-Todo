@@ -1,6 +1,6 @@
 # NodeJS-Todo
 NodeJS를 이용하여 제작한 Todo  
-<h3><a href="http://3.39.121.51:3000">[체험해보기]</a></h3>
+<h3><a href="http://todo.riul.p-e.kr">[체험해보기]</a></h3>
 
 ## 프로젝트 기간
 2023/03/11 ~ 2023/03/12
